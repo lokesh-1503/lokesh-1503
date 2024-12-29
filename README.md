@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 I'm currently working on AI, data science, and machine learning.<br><br>🤝 I'm looking to collaborate on Projects involving AI, machine learning, and data-driven solutions.<br><br>🔍 I'm looking for help with Exploring advanced Machine learning techniques and deployment of AI models.<br><br>🌱 I'm currently learning Deep learning, computer vision, and vector databases.<br><br>💬 Ask me about Python, machine learning algorithms, SQL, and generative AI.<br><br>⚡ Fun fact : I enjoy solving challenging problems in mathematics and AI, and I love sharing knowledge with peers.
+🌟 I'm currently working on AI, data science, and machine learning.<br><br>🤝 I'm looking to collaborate on Projects involving AI, machine learning, and data-driven solutions.<br><br>🔍 I'm looking for help with Exploring advanced Machine learning techniques and deployment of AI models.<br><br>🌱 I'm currently learning Deep learning, computer vision, and vector databases.<br><br>💬 Ask me about Python, machine learning algorithms, SQL, and generative AI.<br><br>⚡ Fun fact : I once spent hours tuning hyperparameters, only to realize my dataset had a column of zeros pretending to be useful features. My model wasn’t learning; it was just guessing blind!
 
 
 ## 🌐 Socials:
